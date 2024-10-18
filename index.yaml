@@ -3,7 +3,17 @@ entries:
   tilburg-woo:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-10-18T16:29:12.154218814+02:00"
+    created: "2024-10-18T17:15:23.453708723+02:00"
+    description: A Helm chart for the Skeleton Gatsby Application
+    digest: 93ad354ef16030b72626a257c31c44db87386ae6b836269cd56eb2fba14c9e78
+    name: tilburg-woo
+    type: application
+    urls:
+    - tilburg-woo-1.0.1.tgz
+    version: 1.0.1
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-10-18T17:15:23.445254276+02:00"
     description: A Helm chart for the Skeleton Gatsby Application
     digest: 8d5e516cb5306813c4b18f9fbeb914776c97763944a0df170bac6305ec0d6a1e
     name: tilburg-woo
@@ -11,4 +21,4 @@ entries:
     urls:
     - tilburg-woo-1.0.0.tgz
     version: 1.0.0
-generated: "2024-10-18T16:29:12.147503644+02:00"
+generated: "2024-10-18T17:15:23.436521197+02:00"
